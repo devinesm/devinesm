@@ -12,6 +12,13 @@
 </div>
 
 <div align="center">
+  <samp>
+      <br>
+      I study Computer Engineering at @ ISEP and Software Engineering at @ 42 Porto
+  </samp>
+</div>
+
+<div align="center">
   
 </div>
 
